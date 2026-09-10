@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://gemma.surge.sh
+Sitemap: https://gemma.surge.sh/sitemap.xml
